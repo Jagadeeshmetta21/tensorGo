@@ -1,6 +1,7 @@
+
 ###*to run backend code*
 --------------------------------------
-{cd backend}
+- [ cd backend ](#cd backend)
 {npm install}
 {npm start}
 ________________________________________
