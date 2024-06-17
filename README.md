@@ -1,15 +1,20 @@
 *to run backend code*
+--------------------------------------
 cd backend
 npm install
 npm start
+________________________________________
 
 routes
+------------
 /auth/google
 /auth/google/callback
 /api/invoices
 /api/zapier/trigger
+______________________________________
 
 *to run frontend*
+--------------------------------
 cd frontend
 npm install
 npm start
