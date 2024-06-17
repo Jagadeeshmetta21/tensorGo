@@ -21,13 +21,13 @@
 
 ![WhatsApp Image 2024-06-18 at 01 34 14_10e748b1](https://github.com/Jagadeeshmetta21/tensorGo/assets/140520901/67ecbb35-0e63-407c-85b4-7b4cbeda489d)
 
-### to run backend code*
+### ------to run backend code*----
 
--  cd backend -
--  npm install -
--  npm start -
+-  cd backend 
+-  npm install 
+-  npm start 
 
-## routes
+## --routes
 
 - /auth/google
 - /auth/google/callback
@@ -35,13 +35,13 @@
 -/api/zapier/trigger
 
 
-## to run frontend*
+## ---to run frontend*
 
 - cd frontend
 - npm install
 - npm start
 
-   ## to see the UI = http://localhost:3000/login
+   ## ----to see the UI = http://localhost:3000/login
 
                     
 - /login
