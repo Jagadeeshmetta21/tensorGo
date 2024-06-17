@@ -21,7 +21,8 @@
 
                     ## *to see the UI * http://localhost:3000/login
 
-                    ![Screenshot 2024-06-17 214131](https://github.com/Jagadeeshmetta21/tensorGo/assets/140520901/9e76db16-8bcc-468f-bfe6-e45f81ece98b)
+                    <div align= "centre"><img src="![Screenshot 2024-06-17 214131](https://github.com/Jagadeeshmetta21/tensorGo/assets/140520901/22bbe9a8-7379-450c-9733-842e28b3c8f8"/>
+
 
 
 
