@@ -30,11 +30,11 @@ const InvoiceList = () => {
   };
 
   return (
-    <div>
+    <div style={{textAlign: 'center'}}>
       <h2>Due Invoices</h2>
-      <ul>
+      <ul style={{textAlign: 'center', marginTop: '30px'}}>
         {invoices.map((invoice) => (
-          <li key={invoice.id}>
+          <li key={invoice.id} style={{textAlign: 'center', marginTop: '30px', listStyleType:'none'}}>
             <p>Invoice Amount: {invoice.amount}</p>
             <p>Due Date: {invoice.dueDate}</p>
             <p>Recipient: {invoice.recipient}</p>

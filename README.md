@@ -13,7 +13,7 @@ routes
 cd frontend
 npm install
 npm start
-
+*to see the UI * http://localhost:3000/login
 /login
 /invoices + triggerPostDue invoices
 

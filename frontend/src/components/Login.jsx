@@ -1,5 +1,4 @@
 import React from 'react';
-import { GoogleLogin } from 'react-google-login';
 import axios from 'axios';
 
 const Login = () => {
@@ -17,7 +16,7 @@ const Login = () => {
   };
 
   return (
-    <div>
+    <div style={{textAlign: 'center'}}>
       <h2>Login with Google</h2>
       {/* <GoogleLogin
         clientId="YOUR_CLIENT_ID"
@@ -26,7 +25,7 @@ const Login = () => {
         onFailure={handleFailure}
         cookiePolicy={'single_host_origin'}
       /> */}
-      <a href="http://localhost:5000/auth/google">Login</a>
+      <a href="http://localhost:5000/auth/google" style={{border: '1px solid gray', backgroundColor: 'black', color:'white', padding: '5px 20px'}}>Login</a>
     </div>
   );
 };
