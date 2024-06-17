@@ -19,7 +19,12 @@
 -npm install
 -npm start
 
-## *to see the UI * http://localhost:3000/login
+                    ## *to see the UI * http://localhost:3000/login
+
+                    ![Screenshot 2024-06-17 214131](https://github.com/Jagadeeshmetta21/tensorGo/assets/140520901/9e76db16-8bcc-468f-bfe6-e45f81ece98b)
+
+
+
 /login
 /invoices + triggerPostDue invoices
 
