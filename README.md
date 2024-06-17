@@ -6,20 +6,20 @@
 -  npm start -
 
 ##routes
-------------
-{/auth/google}
-{/auth/google/callback}
-{/api/invoices}
-{/api/zapier/trigger}
-______________________________________
+
+- /auth/google
+- /auth/google/callback
+- /api/invoices
+-/api/zapier/trigger
+
 
 ##*to run frontend*
---------------------------------
-{cd frontend}
-{npm install}
-{npm start}
-_______________________________
-*to see the UI * http://localhost:3000/login
+
+-cd frontend
+-npm install
+-npm start
+
+## *to see the UI * http://localhost:3000/login
 /login
 /invoices + triggerPostDue invoices
 
