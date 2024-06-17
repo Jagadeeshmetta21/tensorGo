@@ -1,2 +1,1 @@
-# tensorGo
-Assignment
+sample read me 
