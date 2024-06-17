@@ -2,8 +2,8 @@
 ###*to run backend code*
 --------------------------------------
 - [ cd backend ](#cd backend)
--{npm install}
--{npm start}
+[npm install] (#npm install)
+[npm start]
 ________________________________________
 
 ##routes
